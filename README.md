@@ -4,15 +4,15 @@ Highest accuracy on Inoor home scene recognition has been recorded, 97.14%. Plea
 
 | Neural Network  | Accuracy (%) |
 | -------------------------------------------------- | ------------- |
-| Proposed Method (Mask-RCNN + CNN) (5 home scenes)  | 97.14  |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
+| **Proposed Method (Mask-RCNN + CNN) (5 home scenes)**  | **97.14**  |
+| M. Afif et al. EfficientNet (4 home scenes)  | 97  |
+| M. Afif et al. EfficientNet (3 home scenes)  | 95.6  |
+| ImageNet-GoogLeNet  | 96.13  |
+| Places365-VGG  | 92.99  |
+| Hybrid1365-VGG  | 92.15  |
+| CLM  | 90  |
+| Places401-Deeper-BN-Inception  | 86.7  |
+| Unified-CNN  | 51.7  |
 
 
 ![bathroom](https://github.com/dramlanbasu/Indoor-home-scene-recognition-through-instance-segmentation-using-a-combination-of-neural-networks/assets/151190162/d4dd489a-cc54-444d-8263-1e06a6a0e280)

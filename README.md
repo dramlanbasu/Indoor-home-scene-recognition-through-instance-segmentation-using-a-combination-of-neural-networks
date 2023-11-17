@@ -15,6 +15,8 @@ Highest accuracy on Inoor home scene recognition has been recorded, 97.14%. Plea
 | Unified-CNN  | 51.7  |
 
 
+**PREDICTIONS**
+
 ![bathroom](https://github.com/dramlanbasu/Indoor-home-scene-recognition-through-instance-segmentation-using-a-combination-of-neural-networks/assets/151190162/d4dd489a-cc54-444d-8263-1e06a6a0e280)
 ![bedroom](https://github.com/dramlanbasu/Indoor-home-scene-recognition-through-instance-segmentation-using-a-combination-of-neural-networks/assets/151190162/0abc86d7-4850-45d9-8faa-6b52f0d75de2)
 ![Diningroom](https://github.com/dramlanbasu/Indoor-home-scene-recognition-through-instance-segmentation-using-a-combination-of-neural-networks/assets/151190162/60ebeac4-df7c-49ff-aaa4-a8ea96ff5f2f)

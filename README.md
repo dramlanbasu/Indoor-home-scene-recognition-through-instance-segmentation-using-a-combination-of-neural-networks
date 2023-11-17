@@ -2,24 +2,16 @@
 Paper: https://ieeexplore.ieee.org/abstract/document/9848982
 Highest accuracy on Inoor home scene recognition has been recorded, 97.14%. Please refer the link to the paper above.
 
-Neural Network	Accuracy (%)
-Proposed Method (Mask-RCNN + CNN) (5 home scenes)	97.14
-M. Afif et al. EfficientNet (4 home scenes) [115]
-97
-M. Afif et al. EfficientNet (3 home scenes) [115]
-95.6
-ImageNet-GoogLeNet [105]
-96.13
-Places365-VGG [105]
-92.99
-Hybrid1365-VGG [105]
-92.15
-CLM [112]
-90
-Places401-Deeper-BN-Inception [106]
-86.7
-Unified-CNN [104]
-51.7
+| Neural Network  | Accuracy (%) |
+| -------------------------------------------------- | ------------- |
+| Proposed Method (Mask-RCNN + CNN) (5 home scenes)  | 97.14  |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
 
 
 
